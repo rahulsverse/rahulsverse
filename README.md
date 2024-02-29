@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **UI/UX, MERN-Stack**
 
-- 📫 How to reach me **idesignxweb@gmail.com**
+- 📫 How to reach me **hello@devbyrahul.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FYwJqGUUhMccerWkWsWck0_YiWDMs0VN/view?usp=sharing](https://drive.google.com/file/d/1FYwJqGUUhMccerWkWsWck0_YiWDMs0VN/view?usp=sharing)
 
