@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgarg99&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgarg99" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rahulgarg2me" target="blank"><img src="https://img.shields.io/twitter/follow/rahulgarg2me?logo=twitter&style=for-the-badge" alt="rahulgarg2me" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devbyrahul" target="blank"><img src="https://img.shields.io/twitter/follow/devbyrahul?logo=twitter&style=for-the-badge" alt="devbyrahul" /></a> </p>
 
 - 🌱 I’m currently learning **Three.js, Figma**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **hello@devbyrahul.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FYwJqGUUhMccerWkWsWck0_YiWDMs0VN/view?usp=sharing](https://drive.google.com/file/d/1FYwJqGUUhMccerWkWsWck0_YiWDMs0VN/view?usp=sharing)
+- 📄 Know about my experiences [https://devbyrahul.com](https://devbyrahul.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
